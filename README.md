@@ -7,7 +7,6 @@ I am a web developer with a passion for creating beautiful and effective interfa
 - 👋 Building more JavaScript based projects
 - 👀 Learning Node and React
 - ✨ Going Fullstack
-- 🌙 Waiting for the next episode of Moon Knight 😂
 
 
 ### How can you reach me:
