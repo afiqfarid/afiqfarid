@@ -12,7 +12,6 @@ I am a web developer with a passion for creating beautiful and effective interfa
 ### How you can reach me:
 
 - My portfolio website: https://afiqfarid.com/
-- Instagram: @afiqfariiid
 
 
 <!---
