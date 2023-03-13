@@ -2,15 +2,11 @@
 
 I build responsive and effective interfaces on websites and web apps.
 
-<br>
-
 ### What I'm up to:
 
 - 👋 Building more JavaScript based projects
 - 👀 Learning Node and React
 - ✨ Going Fullstack
-
-<br>
 
 ### How you can reach me:
 
